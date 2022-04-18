@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    border: 1px solid #ddd;
+    height: 100vh;
+}
+h1{
+    text-align: center;
+    color: rgb(7, 133, 7);
+}
+.pos{
+    color: rgb(197, 30, 30);
+    font-size: 2rem;
+    font-weight: 900;
+}
